@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TimeshRawasunker
 - 👀 I’m interested in learning programming and coding .
 - 🌱 I’m currently learning HTML, CSS, JavaScript and Python .
-- 💞️ I’m looking to collaborate on multiple beginner projects for experience .
+- 💞️ I’m looking to collaborate on multiple projects for experience .
 - 📫 How to reach me : tim.rawasunker@gmail.com
 
 <!---
